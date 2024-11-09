@@ -1,7 +1,5 @@
 # TIC_TAC_TOE
 
-# TIC_TAC_TOE
-
 A simple and interactive Tic-Tac-Toe game built using Python and Tkinter. This game allows two players to take turns playing, and it features a colorful, user-friendly interface. Players can play as either "X" or "O" and can restart the game after each round.
 
 ### Features
